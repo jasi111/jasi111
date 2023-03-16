@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--  ![logo](https://github.com/jasi111/jasi111/blob/main/banner.png) -->
 <!--  ![logo height="250"](https://github.com/jasi111/jasi111/blob/main/banner.png) -->
 
-<img width="100%" alt="" height="250" src="https://github.com/jasi111/jasi111/blob/main/banner.png">
+<img width="100%" alt="" height="250" src="https://github.com/jasi111/jasi111/blob/main/image.png">
   <h1 align="center">Hi 👋, I'm Jaseela</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left">
 </p>
-
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
