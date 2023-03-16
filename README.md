@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
- ![logo](https://github.com/jasi111/jasi111/blob/main/banner.png)
+<!--  ![logo](https://github.com/jasi111/jasi111/blob/main/banner.png) -->
+<!--  ![logo height="250"](https://github.com/jasi111/jasi111/blob/main/banner.png) -->
+
+<img width="100%" alt="" height="250" src="https://github.com/jasi111/jasi111/blob/main/banner.png">
   <h1 align="center">Hi 👋, I'm Jaseela</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left">
