@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img width="100%" alt="" height="250" src="https://github.com/jasi111/jasi111/blob/main/img.png">
   <h1 align="center">Hi 👋, I'm Jaseela</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 <p align="left">
 </p>
 <br>
